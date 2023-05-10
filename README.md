@@ -2,7 +2,7 @@
 
 I'm currently studying an Engineering Computer Technologies in the university of Tecnológico de Monterrey
 
-- 🎥🇲🇽 Mexican
+- 🇲🇽 Mexican
 - 🎮 Gamer
 - 🖥️ Programmer
 - 🔎 Looking to become a Level Designer
