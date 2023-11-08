@@ -5,7 +5,7 @@ I'm currently studying an Engineering Computer Technologies in the university of
 - 🇲🇽 Mexican
 - 🎮 Gamer
 - 🖥️ Programmer
-- 🔎 Looking to become a Level Designer
+- 🔎 Looking to become a Level Designer, Game Programmer or be involved in the creative part of video games
 - 🎥 Love movies and series
 <!--
 **JoseA725/JoseA725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
